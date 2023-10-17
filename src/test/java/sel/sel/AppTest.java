@@ -13,6 +13,6 @@ public class AppTest
     @Test
     public void shouldAnswerWithTrue()
     {
-        System.out.println("hello mammmm");
+        System.out.println("hello mammmmm");
     }
 }
